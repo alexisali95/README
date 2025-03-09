@@ -10,4 +10,4 @@ Hello 👋
   * [osTicket: Ticket Lyfestyle Examples](https://github.com/alexisali95/osticket.lifecycle)
 * **Microsoft Azure**
   * [Configuring On-Premesis Active Directory within Azure VMs](https://github.com/alexisali95/azure.on-premesis)
-  * [Network Security Groups and Inspecting Network Protocols](https://github.com/alexisali95/network.protocols)
+  * [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexisali95/network.protocols)

@@ -1,6 +1,6 @@
-## Hello 👋 
+- ## Hello 👋 
 -
-_# Hi, I'm Alexis, an IT Professional :)_
+# Hi, I'm Alexis, an IT Professional :) -
 
 # 👩🏽‍💻 Information Technology Projects:
 

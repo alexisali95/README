@@ -1,5 +1,4 @@
-## Hello 👋 
----
+Hello 👋 
 ## Hi, I'm Alexis, an IT [Proffesional](https://www.linkedin.com/in/alexis-a-59b032139/) :)
 
 
